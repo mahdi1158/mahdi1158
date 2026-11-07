@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mahdi1158/mahdi1158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mahdi Mejri
 
-Here are some ideas to get you started:
+### 🤖 Computer Vision & Deep Learning | Industrial Computer Engineering | Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Vision+%26+Deep+Learning;Industrial+AI+%26+Edge+AI;Robotics+%26+ROS2;Building+AI+for+Real-World+Systems" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahdi%20Mejri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-mejri-071099270)
+[![GitHub](https://img.shields.io/badge/GitHub-mahdi1158-181717?style=for-the-badge&logo=github)](https://github.com/mahdi1158)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mejrimahdi867@gmail.com)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Engineering student at ENET'Com**, specializing in **Industrial Computer Engineering and Energy Systems**, with a strong self-taught background in **Artificial Intelligence, Deep Learning and Computer Vision**.
+
+My main interest is building AI systems that interact with the **physical world** — industrial inspection, robotic perception, embedded AI and intelligent automation.
+
+```text
+🎓 Engineering Student      →  Industrial Computer Engineering
+🧠 AI Focus                 →  Computer Vision & Deep Learning
+🤖 Robotics                 →  ROS2 + Niryo Ned2 + Vision
+⚡ Edge AI                  →  ESP32 + TinyML
+🏭 Industrial AI            →  Anomaly Detection & Inspection
+🔬 Current Direction        →  AI for Real-World Industrial Systems
